@@ -1,7 +1,6 @@
 ### Toni Hermoso Pulido
 
-This is Toni Hermoso Pulido.
-
+* [My Gists](https://gist.github.com/toniher)
 * [Brief resume](https://www.cau.cat/blog/brief_resume_english)
 
 <!--
