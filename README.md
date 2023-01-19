@@ -2,6 +2,8 @@
 
 This is Toni Hermoso Pulido.
 
+* [Brief resume](https://www.cau.cat/blog/brief_resume_english)
+
 <!--
 **toniher/toniher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
