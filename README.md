@@ -3,6 +3,7 @@
 * [My Gists](https://gist.github.com/toniher)
 * [My Dotfiles](https://github.com/toniher/dotfiles)
 * [Brief resume](https://www.cau.cat/blog/brief_resume_english)
+* [GPG Key](https://github.com/toniher.gpg)
 
 <!--
 **toniher/toniher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
